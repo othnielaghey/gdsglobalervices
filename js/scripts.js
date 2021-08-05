@@ -13,3 +13,7 @@ window.addEventListener('DOMContentLoaded', event => {
 function goBack() {
     window.history.back();
 }
+
+function hideit() {
+    document.getElementById()
+}
